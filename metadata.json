@@ -4,6 +4,7 @@
   "decimals": 6,
   "description": "USDT is the official stablecoin issued by Tether on the TRON network.",
   "website": "https://tether.to",
-  "logo": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+  "image": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+  "chain": "TRON",
+  "address": "TYJT8vG547CctPFtYB5CvNKTDBVdo64kL5"
 }
-
