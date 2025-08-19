@@ -2,7 +2,8 @@
   "name": "Tether USD",
   "symbol": "USDT",
   "decimals": 6,
-  "description": "Token de prueba en la red Tron",
+  "description": "USDT is the official stablecoin issued by Tether on the TRON network.",
   "website": "https://tether.to",
   "logo": "https://cryptologos.cc/logos/tether-usdt-logo.png"
 }
+
