@@ -2,21 +2,21 @@
   "name": "Mi Lista de Tokens",
   "logoURI": "https://i.postimg.cc/XvrTWvTj/logo.png",
   "timestamp": 1747540800000,
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  },
   "tokens": [
     {
       "chainId": 195,
       "address": "TPJwWmxV11NFCicfTAWJF4z1GFsU9Mknrm",
-      "symbol": "USDT",
       "name": "Tether USD",
+      "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://i.postimg.cc/XvrTWvTj/logo.png"
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
 
 
