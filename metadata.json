@@ -1,7 +1,11 @@
 {
   "name": "Mi Lista de Tokens",
   "timestamp": "2025-09-14T12:00:00+00:00",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
   "tokens": [
     {
       "chainId": 1,
@@ -9,11 +13,10 @@
       "symbol": "USDT",
       "name": "Tether USD",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/elpapucho54-bot/token-metadata/main/tether-usdt-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/elpapucho54-bot/token-metadata/main/Adobe%20Express%20-%20file%20(4).png"
     }
   ]
 }
-
 
 
 
