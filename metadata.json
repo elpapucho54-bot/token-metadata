@@ -1,6 +1,6 @@
 {
   "name": "Mi Lista de Tokens",
-  "timestamp": "2025-09-14T12:00:00+00:00",
+  "timestamp": "2025-09-14T12:00:00Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -13,10 +13,11 @@
       "symbol": "USDT",
       "name": "Tether USD",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/elpapucho54-bot/token-metadata/main/logo.png"
+      "logoURI": "https://i.postimg.cc/XvrTWvTj/logo.png"
     }
   ]
 }
+
 
 
 
