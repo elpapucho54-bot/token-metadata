@@ -1,10 +1,19 @@
 {
-  "name": "Tether USD",
-  "symbol": "USDT",
-  "decimals": 6,
-  "description": "USDT is the official stablecoin issued by Tether on the TRON network.",
-  "website": "https://tether.to",
-  "image": "https://cryptologos.cc/logos/tether-usdt-logo.png",
-  "chain": "TRON",
-  "address": "TYJT8vG547CctPFtYB5CvNKTDBVdo64kL5"
+  "name": "Mi Lista de Tokens",
+  "timestamp": "2025-09-14T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "TPJwWmxV11NFCicfTAWJF4z1GFsU9Mknrm",
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+    }
+  ]
 }
