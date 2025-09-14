@@ -13,9 +13,10 @@
       "symbol": "USDT",
       "name": "Tether USD",
       "decimals": 6,
-      "logoURI": ""logoURI": "https://raw.githubusercontent.com/elpapucho54-bot/token-metadata/main/tether-usdt-logo.png"
+      "logoURI": "logoURI": "https://raw.githubusercontent.com/elpapucho54-bot/token-metadata/main/tether-usdt-logo.png"
 "
     }
   ]
 }
+
 
